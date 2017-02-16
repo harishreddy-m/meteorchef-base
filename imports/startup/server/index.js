@@ -1,4 +1,3 @@
-import './accounts/email-templates';
-import './browser-policy';
-import './fixtures';
-import './api';
+
+import '../../model/documents/methods.js';
+import '../../model/documents/server/publications.js';

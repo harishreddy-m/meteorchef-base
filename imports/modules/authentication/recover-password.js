@@ -2,7 +2,7 @@
 
 import { Accounts } from 'meteor/accounts-base';
 import { Bert } from 'meteor/themeteorchef:bert';
-import './validation.js';
+import '../util/validation.js';
 
 let component;
 
