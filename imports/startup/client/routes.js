@@ -9,7 +9,7 @@ import Documents from '../../ui/pages/Documents.js';
 import NewDocument from '../../ui/pages/NewDocument.js';
 import EditDocument from '../../ui/containers/EditDocument.js';
 import ViewDocument from '../../ui/containers/ViewDocument.js';
-import Index from '../../ui/pages/Index.js';
+import Index from '../../ui/containers/Index.js';
 import Login from '../../ui/pages/Login.js';
 import NotFound from '../../ui/pages/NotFound.js';
 import RecoverPassword from '../../ui/pages/RecoverPassword.js';
